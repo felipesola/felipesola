@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sobre mim
+•	Buscando oportunidade em Ciência de Dados.
 
-<!--
-**felipesola/felipesola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+•	Modelagem, avaliação e deploy em Python de modelos de Machine Learning utilizando: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Árvore de Decisão, Regressão Linear, Regressão Logística, Random Forrest, SVM, KNN, XGBoost, KMeans.
+•	Análise exploratória, limpeza dos dados e hiperparametrização com GridSearchCV.
+•	Avaliação: Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve.
+•	Deploy: MLflow.
 
-Here are some ideas to get you started:
+•	Formado em Ciências Econômicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	Bom relacionamento interpessoal, comunicação assertiva, trabalho em equipe, senso crítico e analítico.
+
+•	Por volta de 4 anos na área de seguros em posições operacionais, técnicas e comerciais, onde adquiri um bom nível de inglês por lidar com pares estrangeiros no dia a dia.
+•	Estágio de 2 anos entregando Apresentações e Dashboards para gerentes e superintendentes da área comercial do HSBC – Excel Avançado, Power Point, Access e excelentes habilidades analíticas.
+•	Demais experiências são, principalmente, lidando com atendimento ao público.
+
+# Guia do Portfólio
+- [Customer Churn](https://github.com/felipesola/customer_churn): Modelo de aprendizado de máquina para análise de churn com dados da área de telecom
+- [Crédito](https://github.com/felipesola/credit): Modelo de aprendizado de máquina para concessão de crédito
+- [Rain in Australia](https://github.com/felipesola/wAUS): Modelo de aprendizado de máquina para análise climática
