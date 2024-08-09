@@ -1,7 +1,6 @@
 # Sobre mim / <code style="color : gray">_About me_</code>
 •	Buscando oportunidade em Ciência de Dados.
-
-<code style="color : gray">•	_Looking for opportunities in Data Science._</code>
+<code style="color : gray">•_Looking for opportunities in Data Science._</code>
 
 •	Modelagem, avaliação e deploy em Python de modelos de Machine Learning utilizando: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Árvore de Decisão, Regressão Linear, Regressão Logística, Random Forrest, SVM, KNN, XGBoost, KMeans.
 •	Análise exploratória, limpeza dos dados e hiperparametrização com GridSearchCV.
