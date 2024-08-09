@@ -1,5 +1,6 @@
-# Sobre mim
+# Sobre mim / _About me_
 •	Buscando oportunidade em Ciência de Dados.
+•	_Looking for opportunities in Data Science._
 
 •	Modelagem, avaliação e deploy em Python de modelos de Machine Learning utilizando: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Árvore de Decisão, Regressão Linear, Regressão Logística, Random Forrest, SVM, KNN, XGBoost, KMeans.
 •	Análise exploratória, limpeza dos dados e hiperparametrização com GridSearchCV.
