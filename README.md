@@ -9,8 +9,8 @@
   <code style="color : gray">Wheater Machine Learning Model</code>
 
 # Sobre mim / <code style="color : gray">_About me_</code>
--	Buscando oportunidade em Ciência de Dados. <br />
-  <code style="color : gray">_Looking for opportunities in Data Science._</code>
+-	Buscando oportunidade em Ciência de Dados. Veja mais infomações abaixo:<br />
+  <code style="color : gray">_Looking for opportunities in Data Science. See further information below:_</code>
 
 -	Modelagem, avaliação e deploy em Python de modelos de Machine Learning utilizando: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Árvore de Decisão, Regressão Linear, Regressão Logística, Random Forrest, SVM, KNN, XGBoost, KMeans. <br />
   <code style="color : gray">_Modeling, evaluation and deployment in Python of Machine Learning models using: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Decision Tree, Linear Regression, Logistic Regression, Random Forrest, SVM, KNN, XGBoost, KMeans._</code>
