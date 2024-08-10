@@ -1,8 +1,8 @@
 # Guia do Portfólio / <code style="color : gray">_Portfolio Guide_</code>
-- [Customer Churn](https://github.com/felipesola/customer_churn): - Modelo de aprendizado de máquina para análise de churn com dados da área de telecom <br />
+- [Customer Churn](https://github.com/felipesola/customer_churn): Modelo de aprendizado de máquina para análise de churn com dados da área de telecom <br />
   <code style="color : gray">_Churn Machine Learn Model with telecom data_</code>
 
-- [Crédito](https://github.com/felipesola/credit): - Modelo de aprendizado de máquina para concessão de crédito <br />
+- [Crédito](https://github.com/felipesola/credit): Modelo de aprendizado de máquina para concessão de crédito <br />
   <code style="color : gray">Credit Machine Learning Model</code>
 
 - [Rain in Australia](https://github.com/felipesola/wAUS): Modelo de aprendizado de máquina para análise climática <br />
@@ -22,7 +22,7 @@
   <code style="color : gray">_Deploy: MLflow._</code>
 
 -	Formado em Ciências Econômicas. <br />
-  code style="color : gray">_Barchelor degree in economics._</code>
+  <code style="color : gray">_Barchelor degree in economics._</code>
 
 -	Bom relacionamento interpessoal, comunicação assertiva, trabalho em equipe, senso crítico e analítico. <br />
   <code style="color : gray">_Good interpersonal relationship, assertive communication, teamwork, critical and analytical sense._</code>
