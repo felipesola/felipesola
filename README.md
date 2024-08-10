@@ -15,10 +15,10 @@
   <code style="color : gray">_Modeling, evaluation and deployment in Python of Machine Learning models using: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Decision Tree, Linear Regression, Logistic Regression, Random Forrest, SVM, KNN, XGBoost, KMeans._</code>
 -	Análise exploratória, limpeza dos dados e hiperparametrização com GridSearchCV. <br />
   <code style="color : gray">_Exploratory data analysis, data cleaning and hyperparametrization with GridSearchCV._</code>
--	Avaliação de modelos utilizando métricas como Acurácia, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve.  <br />
-  <code style="color : gray">_Model Evaluation using metrics like Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve._</code>
--	Deploy: MLflow. <br />
-  <code style="color : gray">_Deploy: MLflow._</code>
+-	Avaliação de modelos utilizando métricas como Acurácia, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve com deploy no MLflow  <br />
+  <code style="color : gray">_Model Evaluation using metrics like Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve deployed in MLflw_</code>
+- Excel Avançado, Power Point, Access e excelentes habilidades analíticas. <br />
+  <code style="color : gray">_Advanced Excel, Power Point, Access and excellent analytical skills._</code>
 -	Formado em Ciências Econômicas. <br />
   <code style="color : gray">_Barchelor degree in economics._</code>
 -	Bom relacionamento interpessoal, comunicação assertiva, trabalho em equipe, senso crítico e analítico. <br />
@@ -27,7 +27,5 @@
   <code style="color : gray">_Around 4 years in operational, technical and commercial positions in insurance industry._</code>
 -	Estágio de 2 anos entregando Apresentações e Dashboards para gerentes e superintendentes da área comercial de banco de varejo. <br />
   <code style="color : gray">_Experience in retail banking with 2-year internship program delivering Presentations and Dashboards to managers and superintendents._</code>
-- Excel Avançado, Power Point, Access e excelentes habilidades analíticas. <br />
-  <code style="color : gray">_Advanced Excel, Power Point, Access and excellent analytical skills._</code>
 -	Demais experiências são, principalmente, lidando com atendimento ao público. <br />
   <code style="color : gray">_Other experiences are mainly dealing with customer service._</code>
