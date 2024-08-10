@@ -1,6 +1,6 @@
 # Guia do Portfólio / <code style="color : gray">_Portfolio Guide_</code>
 - [Customer Churn](https://github.com/felipesola/customer_churn): - Modelo de aprendizado de máquina para análise de churn com dados da área de telecom
-- <code style="color : gray">_Churn Analysis Machine Learn Model with telecom data_</code>
+  <code style="color : gray">_Churn Analysis Machine Learn Model with telecom data_</code>
 
 - [Crédito](https://github.com/felipesola/credit): - Modelo de aprendizado de máquina para concessão de crédito
 - <code style="color : gray">Credit Machine Learning Model</code>
