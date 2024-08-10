@@ -16,7 +16,7 @@
 -	Análise exploratória, limpeza dos dados e hiperparametrização com GridSearchCV. <br />
   <code style="color : gray">_Exploratory data analysis, data cleaning and hyperparametrization with GridSearchCV._</code>
 -	Avaliação de modelos utilizando métricas como Acurácia, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve com deploy no MLflow  <br />
-  <code style="color : gray">_Model Evaluation using metrics like Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve deployed in MLflw_</code>
+  <code style="color : gray">_Model Evaluation using metrics like Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve and deploy in MLflw_</code>
 - Excel Avançado, Power Point, Access e excelentes habilidades analíticas. <br />
   <code style="color : gray">_Advanced Excel, Power Point, Access and excellent analytical skills._</code>
 -	Formado em Ciências Econômicas. <br />
