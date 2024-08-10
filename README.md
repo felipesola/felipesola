@@ -11,23 +11,18 @@
 # Sobre mim / <code style="color : gray">_About me_</code>
 -	Buscando oportunidade em Ciência de Dados. Veja mais infomações abaixo:<br />
   <code style="color : gray">_Looking for opportunities in Data Science. See further information below:_</code>
-
 -	Modelagem, avaliação e deploy em Python de modelos de Machine Learning utilizando: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Árvore de Decisão, Regressão Linear, Regressão Logística, Random Forrest, SVM, KNN, XGBoost, KMeans. <br />
   <code style="color : gray">_Modeling, evaluation and deployment in Python of Machine Learning models using: Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Decision Tree, Linear Regression, Logistic Regression, Random Forrest, SVM, KNN, XGBoost, KMeans._</code>
 -	Análise exploratória, limpeza dos dados e hiperparametrização com GridSearchCV. <br />
   <code style="color : gray">_Exploratory data analysis, data cleaning and hyperparametrization with GridSearchCV._</code>
--	Avaliação: Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve.  <br />
-  <code style="color : gray">_Evaluation: Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve._</code>
+-	Avaliação de modelos utilizando métricas como Acurácia, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve.  <br />
+  <code style="color : gray">_Model Evaluation using metrics like Accuracy, Precision, Recall, F1 Score, AUC-ROC, Precision-Recall Curve._</code>
 -	Deploy: MLflow. <br />
   <code style="color : gray">_Deploy: MLflow._</code>
-
 -	Formado em Ciências Econômicas. <br />
   <code style="color : gray">_Barchelor degree in economics._</code>
-
 -	Bom relacionamento interpessoal, comunicação assertiva, trabalho em equipe, senso crítico e analítico. <br />
   <code style="color : gray">_Good interpersonal relationship, assertive communication, teamwork, critical and analytical sense._</code>
-
-# Carreira / <code style="color : gray">_Career_</code>
 -	Por volta de 4 anos na área de seguros em posições operacionais, técnicas e comerciais. <br />
   <code style="color : gray">_Around 4 years in operational, technical and commercial positions in insurance industry._</code>
 -	Estágio de 2 anos entregando Apresentações e Dashboards para gerentes e superintendentes da área comercial de banco de varejo. <br />
