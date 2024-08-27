@@ -8,7 +8,7 @@
 - [Rain in Australia](https://github.com/felipesola/wAUS): Modelo de aprendizado de máquina para análise climática <br />
   <code style="color : gray">Wheater Machine Learning Model</code>
 
-- [Power BI Dashboard](https://github.com/felipesola/powerbi)): Painel para apresentações criado em Power BI <br />
+- [Power BI Dashboard](https://github.com/felipesola/powerbi): Painel para apresentações criado em Power BI <br />
   <code style="color : gray">Dashboard for presentations created in Power BI</code>
 
 # Aqui você encontrará coisas como: / <code style="color : gray">_Here you will find things like:_</code>
