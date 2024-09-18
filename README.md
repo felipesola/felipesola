@@ -6,7 +6,7 @@
   <code style="color : gray">Credit Machine Learning Model.</code>
 
 - [Rain in Australia](https://github.com/felipesola/wAUS): Modelo de aprendizado de máquina para análise climática.<br />
-  <code style="color : gray">Wheater Machine Learning Model.</code>
+  <code style="color : gray">Weather Machine Learning Model.</code>
 
 - [Power BI Dashboard](https://github.com/felipesola/powerbi): Painel para apresentações criado em Power BI.<br />
   <code style="color : gray">Dashboard for presentations created in Power BI.</code>
